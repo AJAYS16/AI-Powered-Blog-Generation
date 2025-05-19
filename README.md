@@ -61,6 +61,6 @@ The system will automatically:
 - Python 3.8+
 - See requirements.txt for all dependencies
 
-## License
+## Download sample output 
+- [📄 Download Tesla Blog](Tesla_2025-05-17_23-28-48.docx)
 
-MIT 
