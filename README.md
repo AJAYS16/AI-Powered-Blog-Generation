@@ -18,11 +18,12 @@ A powerful blog generation tool with social media posting capabilities.
 1. Clone the repository
 2. Install dependencies with `pip install -r requirements.txt`
 3. Create a `.env` file based on `.env.example` with your API keys:
-   - Gemini API Key
+   - Twitter credentials
+   - Google account credentials
    - LinkedIn credentials
+   - Gemini API Key
    - Medium API token
    - Stability AI API key
-   - Twitter credentials (optional but recommended)
 
 ## Usage
 
